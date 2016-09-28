@@ -7,6 +7,12 @@
 }
 
 #orange {
+  background: orange;
+}
+
+#green {
+  background-color: green;
+}
 .intro-section {
   display: inline;
 }
