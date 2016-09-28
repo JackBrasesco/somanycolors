@@ -2,6 +2,11 @@
   background: lightblue;
 }
 
+#red {
+  background: red;
+}
+
+#orange {
 .intro-section {
   display: inline;
 }
